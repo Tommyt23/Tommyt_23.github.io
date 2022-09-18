@@ -1,0 +1,65 @@
+th, td{
+    width: 16%;
+    height: 3rem;
+    border: 1px solid black;
+    border-collapse: collapse;
+    border-radius: 25px;
+    background-color:  whitesmoke;
+    font-family: Tahoma;
+    text-align: center;
+}
+
+td{
+    font-weight: bold;
+}
+
+th{
+    text-decoration: underline;
+}
+
+table{
+    height: 100%;
+    width: 100%;
+}
+
+h1{
+    text-align: center;
+    color: white;
+}
+
+body{
+    background: linear-gradient(-45deg, #EE7752, #E73c7e, #23a6d5, #23d5ab);
+    background-repeat: no-repeat;
+}
+
+html{
+    height: 100%;
+}
+
+.Monday{
+    background-color: #FFD101;
+}
+
+.Tuesday{
+    background-color: #00F991;
+}
+
+.Wednesday{
+    background-color: #00C2FF;
+}
+
+.Thursday{
+    background-color: #8C00FF;
+}
+
+.Friday{
+    background-color: #FE00B0;
+}
+
+.Primary{
+    background-color: #0078FF;
+}
+
+.Break{
+    background-color: orange;
+}
